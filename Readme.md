@@ -1,8 +1,20 @@
 # 眼底医学图像处理平台
 
+# 注意
+
+由于github大文件的限制，目录里缺少了一个权重参数的文件LSRGAN_x2.pth.tar，可以通过以下链接下载，下载以后放在main.py同级目录即可
+
+链接：https://pan.baidu.com/s/1TIrhnCHpkXmGDysFl0TopQ 
+提取码：evhi 
+--来自百度网盘超级会员V5的分享
+
 ## 小组成员
 - 李振凯10225101541
 - 陈喆10225101542
+
+## github仓库地址
+
+[Iridescentttttt/Fundus-image-processing-platform (github.com)](https://github.com/Iridescentttttt/Fundus-image-processing-platform)
 
 ## 项目主题
 眼底视网膜医学图像是检测疾病很重要的依据，但是由于各种原因（如仪器的限制、天然的噪声、患者的配合度）眼底医学图像在成像时面临着许许多多的问题，包括噪声、分辨率过低等等。我们小组以眼底医学图像为背景，制作了一个眼底医学图像处理的平台，该平台有着去噪、血管检测、超分辨率等多种功能，每种功能有不同的实现方法，用户可以根据自己的需要选择结果最好的一种方法对原图像进行处理。
